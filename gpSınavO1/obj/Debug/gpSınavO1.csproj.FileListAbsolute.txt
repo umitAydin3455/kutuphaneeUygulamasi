@@ -1,0 +1,13 @@
+C:\Users\umita\OneDrive\Masaüstü\C# görsel programlama\gpSınavO1\obj\Debug\gpSınavO1.csproj.AssemblyReference.cache
+C:\Users\umita\OneDrive\Masaüstü\C# görsel programlama\gpSınavO1\obj\Debug\gpSınavO1.Form1.resources
+C:\Users\umita\OneDrive\Masaüstü\C# görsel programlama\gpSınavO1\obj\Debug\gpSınavO1.Properties.Resources.resources
+C:\Users\umita\OneDrive\Masaüstü\C# görsel programlama\gpSınavO1\obj\Debug\gpSınavO1.csproj.GenerateResource.cache
+C:\Users\umita\OneDrive\Masaüstü\C# görsel programlama\gpSınavO1\obj\Debug\gpSınavO1.csproj.CoreCompileInputs.cache
+C:\Users\umita\OneDrive\Masaüstü\C# görsel programlama\gpSınavO1\bin\Debug\gpSınavO1.exe.config
+C:\Users\umita\OneDrive\Masaüstü\C# görsel programlama\gpSınavO1\bin\Debug\gpSınavO1.exe
+C:\Users\umita\OneDrive\Masaüstü\C# görsel programlama\gpSınavO1\bin\Debug\gpSınavO1.pdb
+C:\Users\umita\OneDrive\Masaüstü\C# görsel programlama\gpSınavO1\obj\Debug\gpSınavO1.exe
+C:\Users\umita\OneDrive\Masaüstü\C# görsel programlama\gpSınavO1\obj\Debug\gpSınavO1.pdb
+C:\Users\umita\OneDrive\Masaüstü\C# görsel programlama\gpSınavO1\obj\Debug\gpSınavO1.uyeEkle.resources
+C:\Users\umita\OneDrive\Masaüstü\C# görsel programlama\gpSınavO1\obj\Debug\gpSınavO1.kitapEkle.resources
+C:\Users\umita\OneDrive\Masaüstü\C# görsel programlama\gpSınavO1\obj\Debug\gpSınavO1.kullaniciGiris.resources
